@@ -73,4 +73,6 @@ void all_combinations(int n, int k) {
     ans.resize(n);
     gen(n, k, 0, false);
 }
+```
+quick link to source code<https://cp-algorithms.com/combinatorics/generating_combinations.html>
  
