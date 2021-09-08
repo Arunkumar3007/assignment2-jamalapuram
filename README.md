@@ -27,10 +27,10 @@
 # heading about creating a table food/drinks
 
 Introduction:
-The following is to  create a table with at least 4food/drinksthat you would recommend someone try.Include a short paragraph that introduces the table.
+The following is to  create a table with at least 4food/drinksthat you would recommend someone try.Include a short paragraph that introduces the table. 
 
  |Mandatory|fav1             |fav2                  |fav3              |fav4            | 
- |:.......:|........:        |:........:            |:........:        |:.......:       |
+ |:-------:|:--------:       |:--------:            |:--------:        |:-------:       |
  |Food     |dosa             |biryani               |pizza             |coke            |
  |Location |hyderabad        |warangal              |karimnagar        |kukatpally      |
  |Type     |masala           |veg                   |spicy             |coacola         |
