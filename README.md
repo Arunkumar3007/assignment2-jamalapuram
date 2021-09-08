@@ -35,4 +35,10 @@ The following is to  create a table with at least 4food/drinksthat you would rec
  |Location |hyderabad        |warangal              |karimnagar        |kukatpally      |
  |Type     |masala           |veg                   |spicy             |coacola         |
  |Amount   |30-40            |70-80                 |50-60             |20-30           |
-      
+
+  ----
+  # quotes section
+  >“Winners never quit, and quitters never win.”
+  >Author:*Shane watson* <br>   
+  >“Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.”
+  >Author:*Roy T. Bennett8* 
